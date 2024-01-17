@@ -1,0 +1,459 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sousi is Addict - Othmane est magnifique</title>
+<link rel="shortcut icon" type="image/svg" href="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg" />
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='Zeyer 3ich mreyer' name='description'>
+<meta content='Sousi games, Toto est le goat' name='keywords'>
+<link rel="stylesheet" media="all" href="css.css" />
+<script src="lmao.js" defer="defer"></script>
+<script src="https://footyaddicts.com/bundles/js/706-287695c0f83f36f2769d.js" defer="defer"></script>
+<script src="https://footyaddicts.com/bundles/js/734-73be00c795962d836797.js" defer="defer"></script>
+<script src="https://footyaddicts.com/bundles/js/next-b520a466f6c227ef3592.js" defer="defer"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="7yKLdkkEYLSzbXCOMpKa23imPGdzkuanpuLBjbjqj80GfkWqhkRvMH69z2qH1Df22Bycl+dwWpQavfObdCvWGQ==" />
+</head>
+<body data-bs-spy='scroll' data-target='#navbar' id='home_index'>
+<script>
+//<![CDATA[
+window.pageData={};pageData.stripe="pk_live_EzkEhpchIauv1CSjov3U04XZ";pageData.controller="Home";pageData.action="index";pageData.locale="en";
+//]]>
+</script>
+<header>
+<nav class='bg-white border-neutral-200 px-4 py-6 lg:px-6'>
+<div class='flex flex-wrap justify-between items-center mx-auto max-w-screen-xl'>
+<a class="logo-container flex items-center text-red-500" href="Sousi.svg"><div class='mr-3'><svg version="1.1" xmlns="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg" xmlns:xlinkef=""
+  viewBox="0 0 80 80" stroke-width="1" stroke="currentColor" fill="currentColor" xml:space="preserve" >
+  <path d="M40.02,72.19c-17.83,0-32.32-14.58-32.32-32.54,0-8.25,3.07-15.82,8.13-21.56l.89,.14c.07,.03,.14,.03,.2,.03s.17,.03,.31,.03c.14,.03,.31,.03,.48,.07,.17,.03,4,.65,7.86,2.3-.99,3.1-2.53,8.8-3.04,15.65l-.07,.72,.51,.62c1.06,1.24,6.7,7.6,14.52,11.69l.55,.24,3.25-1.1c1.3-.45,3.01-1.03,4.82-1.65l.72-.28c2.46-.93,5.47-2.03,7.62-3.06l.24,.31c.79,1.07,1.81,2.37,2.8,3.78,.85,1.13,2.05,2.82,3.04,4.3,.51,.72,2.15,3.47,2.15,3.47l.27,.45s2.66-.28,5.88-1.89l.03,.03,.14-.1c-5.23,10.9-16.26,18.33-28.97,18.33ZM44.43,7.43c-.51,.93-1.16,2.24-1.54,3.03l-.34,.72c-.27,.58-.51,1.1-.68,1.51-5.91,1.1-11.21,3.54-14.04,5.02-2.6-1.17-5.98-2.24-8.71-2.82,5.64-4.85,12.95-7.77,20.91-7.77,1.5,0,2.97,.1,4.41,.31Zm11.21,18.23c-.34,5.74-.79,10.21-1.3,13.03-.03,.31-.1,.72-.24,1.1-1.57,.83-4.85,2.2-9.12,3.75-2.7,1-5.26,1.86-6.46,2.27-3.25-1.82-6.25-4.06-9.02-6.6-1.13-1.03-1.98-1.93-2.8-2.79l-.48-.48c.31-3.54,.92-7.22,1.88-10.94,.44-1.72,.75-2.68,.99-3.3,.07-.24,.17-.41,.2-.58,.17-.1,.38-.21,.58-.31h.03c2.49-1.27,7.48-3.54,12.95-4.51,.79,.28,4.95,2.27,12.78,9.35Zm10.52-5.12c-3.14,.62-6.49,1.75-8.16,2.37-6.01-5.4-10.25-8.15-12.5-9.42,.2-.45,.44-.96,.65-1.48,.68-1.48,1.5-3.2,1.91-3.89,.34,.07,.65,.17,.99,.28,.38,.1,.79,.24,1.23,.38,6.42,2.2,11.96,6.36,15.89,11.76Zm4.99,27.86c-.31,.24-.72,.58-1.3,1-1.67,1.2-3.31,1.89-4.68,2.37-.14,.07-.31,.1-.44,.17-.38-.62-.75-1.27-1.23-1.93-1.88-2.82-4.75-6.64-6.22-8.6,.75-1.99,1.4-6.95,1.91-15.13,3.01-1.07,6.22-1.65,8.95-2.37,.03,0,.07-.03,.1-.03,2.56,4.68,4.07,10.04,4.07,15.75,.03,3.06-.38,5.98-1.16,8.77ZM40.02,2.3C19.56,2.3,2.92,19.05,2.92,39.65s16.64,37.35,37.1,37.35,37.1-16.75,37.1-37.35S60.49,2.3,40.02,2.3Z" />
+</svg>
+</div>
+<span class='self-center text-2xl text-black font-black whitespace-nowrap'>Sousi love kora</span>
+</a><div class='flex items-center lg:order-2'>
+<a class="font-medium text-black bg-selago-100 border border-transparent hover:bg-selago-200 disabled:hover:bg-selago-200 text-sm px-4 py-2 rounded-lg hidden sm:flex" href="/users/sign_up.html">Inscription
+</a>
+<a class="font-medium text-white bg-red-500 border border-transparent hover:bg-red-600 disabled:hover:bg-red-600 text-sm px-4 py-2 rounded-lg hidden ml-2 sm:flex" href="/users/sign_in.html">S'identifier
+</a>
+<button aria-controls='mobile-menu' aria-expanded='false' class='inline-flex items-center p-2 ml-2 text-sm text-black rounded-lg lg:hidden hover:bg-neutral-100 focus:outline-none' data-collapse-toggle='mobile-menu' type='button'>
+<span class='sr-only'>Open main menu</span>
+<svg class='w-6 h-6' fill='currentColor' viewbox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'>
+<path clip-rule='evenodd' d='M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z' fill-rule='evenodd'></path>
+</svg>
+<svg class='hidden w-6 h-6' fill='currentColor' viewbox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'>
+<path clip-rule='evenodd' d='M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z' fill-rule='evenodd'></path>
+</svg>
+</button>
+</div>
+<div class='hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1' id='mobile-menu'>
+<div class='flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0'>
+<a class="font-medium text-black bg-selago-100 border border-transparent hover:bg-selago-200 disabled:hover:bg-selago-200 text-sm px-4 py-2 rounded-lg block mb-2 sm:hidden" href="/users/sign_up">Register
+</a>
+<a class="font-medium text-white bg-red-500 border border-transparent hover:bg-red-600 disabled:hover:bg-red-600 text-sm px-4 py-2 rounded-lg block mb-2 sm:hidden" href="/users/sign_in">Sign in
+</a>
+<a class="block py-2 pr-4 pl-3 text-black border-b border-neutral-100 hover:bg-neutral-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-red-500 lg:p-0" href="/home">Home</a>
+<a class="block py-2 pr-4 pl-3 text-black border-b border-neutral-100 hover:bg-neutral-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-red-500 lg:p-0" href="Projet sousi\pages\about.html">About</a>
+<a class="block py-2 pr-4 pl-3 text-black border-b border-neutral-100 hover:bg-neutral-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-red-500 lg:p-0" href="/pages/play">Lka chi match</a>
+<a class="block py-2 pr-4 pl-3 text-black border-b border-neutral-100 hover:bg-neutral-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-red-500 lg:p-0" href="/pages/impact">Impact</a>
+<a class="block py-2 pr-4 pl-3 text-black border-b border-neutral-100 hover:bg-neutral-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-red-500 lg:p-0" href="/contact">Contact</a>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<section class='bg-home-hero text-selago-50'>
+  
+<div class='wrapper'>
+<div class='w-full pt-48 md:w-2/3'>
+<h1 class='text-7xl font-bold'>Toto c'est le plus beau</h1>
+<h2 class='font-quinsy mb-4'>Hala madrid</h2>
+<div class='rounded-xl p-6 bg-selago-50 text-black'>
+<h3 class='text-4xl font-bold'>Ghali lka lina chi match</h3>
+<form></form>
+<form class="form flex items-center my-6 " action="/football-games" accept-charset="UTF-8" method="get">
+<div class='relative flex-1'>
+<div class='absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none'>
+<svg class='w-5 h-5 text-neutral-500'>
+<path clip-rule='evenodd' d='M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z' fill-rule='evenodd'></path>
+</svg>
+</div>
+<input class='bg-white border border-gray-300 text-gray-900 text-sm rounded-lg block w-full pl-10 p-2.5 focus:ring-blue-500 focus:border-blue-500' placeholder='City, postcode or area'>
+</div>
+<button class="font-medium text-black bg-selago-100 border border-transparent hover:bg-selago-200 disabled:hover:bg-selago-200 text-sm px-4 py-2 rounded-lg ml-2"><span>Search</span>
+<span class='hidden md:inline-block'>for games</span>
+
+</button></form>
+</div>
+</div>
+</div>
+</section>
+<section class='bg-white text-black'>
+<div class='wrapper'>
+<div class='flex flex-col items-center'>
+<h3 class='uppercase font-light text-2xl py-8'>Toto le plus beau</h3>
+</div>
+<h2 class='pt-8'>Bienvenue chez sousi Addicts</h2>
+<p class='my-5 font-light text-2xl'>
+Trouve un match de foot aka the football aka korat lkadam
+</p>
+<p class='my-5 text-2xl'>
+👉
+<a class="font-normal hover:underline" href="/pages/about">About Footy Addicts</a>
+</p>
+</div>
+</section>
+<section class='bg-white text-black'>
+<div class='wrapper'>
+<h2>Les terrains</h2>
+<h3 class='font-light text-2xl my-8'>Meilleurs terrain</h3>
+<div class='grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-3'>
+<a class="group relative" href="/football-venues/2-westway-sports-centre-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://www.sportomaroc.ma/images/uploads/clubs/medium/Kick-Off-Marrakech-Sportomaroc-Football%20(2).jpg" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>Kick off Marrakech</h3>
+<p class='font-light'> MW5V+HVX, Rte de Targa, Marrakech, Maroc</p>
+</div>
+<p class='font-light'>
+&#9733
+4.5
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/626-archbishops-park-waterloo-greater-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://footyaddicts.com/storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a91e7272b9883adb5a5a6a27d06b85841513e67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQXNBRGFRSWNBZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6ca9cae3468db0e1f1f11b77d655e30e9d1d23dc/Archbishop%20Park%20Football%204.jpg" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>F5 CLUB, Marrakech</h3>
+<p class='font-light'>Dk location</p>
+</div>
+<p class='font-light'>
+&#9733
+4.5
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/37-mile-end-leisure-centre-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://footyaddicts.com/storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb1ec3625e3d32e76f5a69c92362e97437347e0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hOeVpYTnBlbVZmZEc5ZlptbHNiRnNIYVFMQUEya0NIQUk9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a416303d1e8a8731de71dc221b000eb9beeab2b5/Mile-End-Park_5-a-Side_3G-3.jpeg" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>Master foot </h3>
+<p class='font-light'>Dk location</p>
+</div>
+<p class='font-light'>
+&#9733
+4.0
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/19-powerleague-shoreditch-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://footyaddicts.com/storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZDQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe449881a207585654ff9c500f5eec0fdb1c3c38/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQXNBRGFRSWNBZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6ca9cae3468db0e1f1f11b77d655e30e9d1d23dc/c870x524.jpg" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>Planet foot marrakech</h3>
+<p class='font-light'>Dk location</p>
+</div>
+<p class='font-light'>
+&#9733
+4.0
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/125-evelyn-grace-academy-brixton-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://footyaddicts.com/storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44546d9d2024f2abe6e318c6c947255a8eac40e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQXNBRGFRSWNBZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5a4c9eb9e2eb1159978957d12531aa04816ef9d2/Ark-Evelyn-Grace-Schools-Plus-1.png" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>terrain</h3>
+<p class='font-light'>Dk location</p>
+</div>
+<p class='font-light'>
+&#9733
+5.0
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/98-whittington-park-archway-greater-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://footyaddicts.com/storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5fdd0291ffd72a68815ee149a1f0ce60145a3235/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQXNBRGFRSWNBZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6ca9cae3468db0e1f1f11b77d655e30e9d1d23dc/Whittington%20Park%20Football%20Pitch.jpg" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>terrain</h3>
+<p class='font-light'>ADk location</p>
+</div>
+<p class='font-light'>
+&#9733
+4.0
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/842-bobby-moore-academy-stratford-greater-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://footyaddicts.com/storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--780d26d26dffafd6caf737c6d97e8ef21271f1e2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hOeVpYTnBlbVZmZEc5ZlptbHNiRnNIYVFMQUEya0NIQUk9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a416303d1e8a8731de71dc221b000eb9beeab2b5/Bobby%20Moore%20Academy%20Football%203.jpeg" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>terrain</h3>
+<p class='font-light'>Dk location</p>
+</div>
+<p class='font-light'>
+&#9733
+4.5
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/60-haggerston-park-london"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://footyaddicts.com/storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a687e5cb9f5a2b04b491735fad695851c4bc23a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQXNBRGFRSWNBZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6ca9cae3468db0e1f1f11b77d655e30e9d1d23dc/5501f18d-b185-4cd3-b38f-38b1c8340575.jpg" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>Haggerston Park</h3>
+<p class='font-light'>Dk location</p>
+</div>
+<p class='font-light'>
+&#9733
+5.0
+</p>
+</div>
+</a><a class="group relative" href="/football-venues/662-trinity-sports-centre-greater-manchester"><div class='min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-xl bg-neutral-200 group-hover:opacity-75 lg:aspect-none lg:h-80'>
+<img class="h-full w-full object-cover object-center lg:h-full lg:w-full" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.universgazons.com%2Fdetails-qu%2Best%2Bce%2Bque%2Ble%2Bfoot%2Ba%2B5%2B-235.html&psig=AOvVaw3_eYJcGXWvj6y9SWm0Vodd&ust=1702928770420000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICU6pael4MDFQAAAAAdAAAAABAD" />
+</div>
+<div class='mt-4 flex justify-between'>
+<div>
+<h3 class='font-bold'>terrains</h3>
+<p class='font-light'>Dk location</p>
+</div>
+<p class='font-light'>
+&#9733
+5.0
+</p>
+</div>
+</a></div>
+</div>
+</section>
+<section class='bg-white text-black'>
+<div class='wrapper'>
+<h2 class='text-center mt-16'>1.Cherche une équpie 2.Réserve 3.Enjoy </h2>
+<div class='grid grid-cols-1 gap-16 font-light text-2xl text-center md:grid-cols-3'>
+<div class='flex flex-col items-center'>
+<img class="w-64 my-4" src="https://footyaddicts.com/bundles/static/find-local-games-6b64f1e5b7358d588c38.svg" />
+<p>
+<strong>Cherche</strong>
+Des match de foot 
+</p>
+</div>
+<div class='flex flex-col items-center'>
+<img class="w-64 my-4" src="https://footyaddicts.com/bundles/static/book-your-next-game-608ff84f2e2c83cc2021.svg" />
+<p>
+<strong>Réserve</strong>
+Des matchs de foot à tout moment dans ta ville
+</p>
+</div>
+<div class='flex flex-col items-center'>
+<img class="w-64 my-4" src="https://footyaddicts.com/bundles/static/play-cd0a8bc8b4dcc4c1d1fd.svg" />
+<p>
+<strong>Joue</strong>
+Ton meilleur match. Have fun. Feel good.
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<section class='bg-pattern-dark text-selago-50'>
+<div class='wrapper'>
+<div class='flex relative'>
+<div>
+<h2>Télecharge l'application pour rien raté</h2>
+<blockquote class='w-full md:w-1/2'>
+<div class='rounded-lg bg-white text-black p-4 mt-8'>
+<p>"Facile à utiliser pour organiser des matchs en temp réel"</p>
+<div class='text text-yellow-400'>&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+</div>
+</blockquote>
+<ul class='list-disc mt-8 p-4'>
+<li>Accessible Football. N'importe quand pour n'importe qui.</li>
+</ul>
+<div class="space-y-4">
+  <a href="/download?platform=iOS" class="border-1 flex inline-flex w-full items-center justify-center rounded-lg border border-neutral-700 bg-black px-4 py-2.5 text-white hover:bg-neutral-700 focus:ring-1 focus:ring-neutral-300 md:w-48">
+    <svg class="mr-3 w-7 h-7" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="apple" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+      <path fill="currentColor"
+        d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z">
+      </path>
+    </svg>
+    <div class="text-left">
+      <div class="mb-1 text-xs">Disponible sur</div>
+      <div class="-mt-1 font-sans text-sm font-semibold">App Store</div>
+    </div>
+  </a>
+  <a href="/download?platform=Android" class="border-1 flex inline-flex w-full items-center justify-center rounded-lg border border-neutral-700 bg-black px-4 py-2.5 text-white hover:bg-neutral-700 focus:ring-1 focus:ring-neutral-300 md:w-48">
+    <svg class="mr-3 w-7 h-7" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000">
+      <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+      <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+      <g id="SVGRepo_iconCarrier">
+        <polygon style="fill:#5CDADD;" points="29.53,0 29.53,251.509 29.53,512 299.004,251.509 "></polygon>
+        <polygon style="fill:#BDECC4;" points="369.067,180.547 262.175,119.467 29.53,0 299.004,251.509 "></polygon>
+        <polygon style="fill:#DC68A1;" points="29.53,512 29.53,512 262.175,383.551 369.067,322.47 299.004,251.509 "></polygon>
+        <path style="fill:#FFCA96;" d="M369.067,180.547l-70.063,70.961l70.063,70.961l108.688-62.877c6.288-3.593,6.288-11.677,0-15.27 L369.067,180.547z"></path>
+      </g>
+    </svg>
+    <div class="text-left">
+      <div class="mb-1 text-xs">Disponible sur </div>
+      <div class="-mt-1 font-sans text-sm font-semibold">Google Play</div>
+    </div>
+  </a>
+</div>
+
+</div>
+<div class='text-center'>
+<div class='hidden -mt-32 -mb-32 sm:block'>
+<img class="w-80" src="sousinette.png" />
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class='bg-neutral-200 text-black'>
+<div class='wrapper grid grid-cols-2 gap-8 text-sm md:grid-cols-4'>
+<ul>
+<li class='mb-4 font-bold'>Play football in Marrakech</li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/2-westway-sports-centre-london">Westway Sports Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/1-paradise-park-highbury-greater-london">Paradise Park, Highbury</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/37-mile-end-leisure-centre-london">Mile End Leisure Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/60-haggerston-park-london">Haggerston Park</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/626-archbishops-park-waterloo-greater-london">Archbishops Park, Waterloo</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/308-powerleague-shepherds-bush-greater-london">Powerleague - Shepherds Bush</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/19-powerleague-shoreditch-london">Powerleague - Shoreditch</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/98-whittington-park-archway-greater-london">Whittington Park, Archway</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/102-drapers-field-leyton-greater-london">Drapers Field, Leyton</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/125-evelyn-grace-academy-brixton-london">Evelyn Grace Academy, Brixton</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/9-regents-park-the-hub-london">Regents Park (The Hub)</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/3-westminster-academy-paddington-greater-london">Westminster Academy, Paddington</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/842-bobby-moore-academy-stratford-greater-london">Bobby Moore Academy, Stratford</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/43-aspire-centre-southfields-london">Aspire Centre, Southfields</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/21-market-road-football-pitch-greater-london">Market Road Football Pitch</a></li>
+</ul>
+
+<ul>
+<li class='mb-4 font-bold'>Play football in Rabat</li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/161-platt-lane-mancity-academy-manchester">Platt Lane (ManCity Academy)</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/135-powerleague-manchester-central-manchester">Powerleague - Manchester Central</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/106-denmark-road-sports-centre-greater-manchester">Denmark Road Sports Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/109-armitage-sports-centre-manchester">Armitage Sports Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/662-trinity-sports-centre-greater-manchester">Trinity Sports Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/131-sugden-sports-centre-manchester">Sugden Sports Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/598-ordsall-leisure-centre-greater-manchester">Ordsall Leisure Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/500-goals-sports-centres-manchester-manchester">Goals Sports Centres - Manchester</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/233-belle-vue-leisure-centre-manchester">Belle Vue Leisure Centre</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/902-manchester-academy-high-school-greater-manchester">Manchester Academy High School</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/1358-cheetwood-community-primary-school-cheetham-hill">Cheetwood Community Primary School</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/985-levenshulme-high-school-greater-manchester">Levenshulme High School</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/164-rushford-park-manchester">Rushford Park</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/464-ten-acres-lane-sports-complex-manchester">Ten Acres Lane Sports Complex</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/1373-mea-central-greater-manchester">MEA Central</a></li>
+<li class='mb-4 font-thin'><a class="hover:underline" href="/football-venues/1404-parrs-wood-high-school-greater-manchester">Parrs Wood High School</a></li>
+</ul>
+
+
+</div>
+</section>
+<footer class='bg-black'>
+<div class='wrapper grid grid-cols-2 gap-8 md:grid-cols-4'>
+<div>
+<h2 class='mb-6 text-sm font-bold text-white'>New to Footy Addicts?</h2>
+<ul class='text-white'>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/about">What is Footy Addicts</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/play">What to expect</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="https://footyaddicts.uservoice.com/knowledgebase/articles/1807312-code-of-conduct">Code of conduct</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/contact">Contact us</a>
+</li>
+</ul>
+</div>
+<div>
+<h2 class='mb-6 text-sm font-bold text-white'>About Footy Addicts</h2>
+<ul class='text-white'>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/about">Our story</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/impact">Impact</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/play">Play football</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="https://store.footyaddicts.com">Store</a>
+</li>
+</ul>
+</div>
+<div>
+<h2 class='mb-6 text-sm font-bold text-white'>Popular links</h2>
+<ul class='text-white'>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/play#organisers">Game organizer</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/play#hosts">Game host</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/play#causes">Good causes</a>
+</li>
+<li class='mb-4 text-sm'>
+<a class="font-light hover:text-neutral-300" href="/pages/play#partnerships">Partnerships</a>
+</li>
+</ul>
+</div>
+<div>
+<a class="logo-container flex items-center text-white" href="javascript:;"><div class='hidden mr-3 sm:flex'><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 80 80" stroke-width="1" stroke="currentColor" fill="currentColor" xml:space="preserve" >
+  <path d="M40.02,72.19c-17.83,0-32.32-14.58-32.32-32.54,0-8.25,3.07-15.82,8.13-21.56l.89,.14c.07,.03,.14,.03,.2,.03s.17,.03,.31,.03c.14,.03,.31,.03,.48,.07,.17,.03,4,.65,7.86,2.3-.99,3.1-2.53,8.8-3.04,15.65l-.07,.72,.51,.62c1.06,1.24,6.7,7.6,14.52,11.69l.55,.24,3.25-1.1c1.3-.45,3.01-1.03,4.82-1.65l.72-.28c2.46-.93,5.47-2.03,7.62-3.06l.24,.31c.79,1.07,1.81,2.37,2.8,3.78,.85,1.13,2.05,2.82,3.04,4.3,.51,.72,2.15,3.47,2.15,3.47l.27,.45s2.66-.28,5.88-1.89l.03,.03,.14-.1c-5.23,10.9-16.26,18.33-28.97,18.33ZM44.43,7.43c-.51,.93-1.16,2.24-1.54,3.03l-.34,.72c-.27,.58-.51,1.1-.68,1.51-5.91,1.1-11.21,3.54-14.04,5.02-2.6-1.17-5.98-2.24-8.71-2.82,5.64-4.85,12.95-7.77,20.91-7.77,1.5,0,2.97,.1,4.41,.31Zm11.21,18.23c-.34,5.74-.79,10.21-1.3,13.03-.03,.31-.1,.72-.24,1.1-1.57,.83-4.85,2.2-9.12,3.75-2.7,1-5.26,1.86-6.46,2.27-3.25-1.82-6.25-4.06-9.02-6.6-1.13-1.03-1.98-1.93-2.8-2.79l-.48-.48c.31-3.54,.92-7.22,1.88-10.94,.44-1.72,.75-2.68,.99-3.3,.07-.24,.17-.41,.2-.58,.17-.1,.38-.21,.58-.31h.03c2.49-1.27,7.48-3.54,12.95-4.51,.79,.28,4.95,2.27,12.78,9.35Zm10.52-5.12c-3.14,.62-6.49,1.75-8.16,2.37-6.01-5.4-10.25-8.15-12.5-9.42,.2-.45,.44-.96,.65-1.48,.68-1.48,1.5-3.2,1.91-3.89,.34,.07,.65,.17,.99,.28,.38,.1,.79,.24,1.23,.38,6.42,2.2,11.96,6.36,15.89,11.76Zm4.99,27.86c-.31,.24-.72,.58-1.3,1-1.67,1.2-3.31,1.89-4.68,2.37-.14,.07-.31,.1-.44,.17-.38-.62-.75-1.27-1.23-1.93-1.88-2.82-4.75-6.64-6.22-8.6,.75-1.99,1.4-6.95,1.91-15.13,3.01-1.07,6.22-1.65,8.95-2.37,.03,0,.07-.03,.1-.03,2.56,4.68,4.07,10.04,4.07,15.75,.03,3.06-.38,5.98-1.16,8.77ZM40.02,2.3C19.56,2.3,2.92,19.05,2.92,39.65s16.64,37.35,37.1,37.35,37.1-16.75,37.1-37.35S60.49,2.3,40.02,2.3Z" />
+</svg>
+</div>
+<span class='self-center text-xl text-white font-black whitespace-nowrap'>Footy Addicts</span>
+</a><p class='font-light text-sm text-white my-5'>
+Join over
+217K
+players!
+<br>
+Download the Footy Addicts app
+</p>
+<div class="space-y-4">
+  <a href="/download?platform=iOS" class="border-1 flex inline-flex w-full items-center justify-center rounded-lg border border-neutral-700 bg-black px-4 py-2.5 text-white hover:bg-neutral-700 focus:ring-1 focus:ring-neutral-300 md:w-48">
+    <svg class="mr-3 w-7 h-7" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="apple" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+      <path fill="currentColor"
+        d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z">
+      </path>
+    </svg>
+    <div class="text-left">
+      <div class="mb-1 text-xs">Available on the</div>
+      <div class="-mt-1 font-sans text-sm font-semibold">App Store</div>
+    </div>
+  </a>
+  <a href="/download?platform=Android" class="border-1 flex inline-flex w-full items-center justify-center rounded-lg border border-neutral-700 bg-black px-4 py-2.5 text-white hover:bg-neutral-700 focus:ring-1 focus:ring-neutral-300 md:w-48">
+    <svg class="mr-3 w-7 h-7" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000">
+      <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+      <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+      <g id="SVGRepo_iconCarrier">
+        <polygon style="fill:#5CDADD;" points="29.53,0 29.53,251.509 29.53,512 299.004,251.509 "></polygon>
+        <polygon style="fill:#BDECC4;" points="369.067,180.547 262.175,119.467 29.53,0 299.004,251.509 "></polygon>
+        <polygon style="fill:#DC68A1;" points="29.53,512 29.53,512 262.175,383.551 369.067,322.47 299.004,251.509 "></polygon>
+        <path style="fill:#FFCA96;" d="M369.067,180.547l-70.063,70.961l70.063,70.961l108.688-62.877c6.288-3.593,6.288-11.677,0-15.27 L369.067,180.547z"></path>
+      </g>
+    </svg>
+    <div class="text-left">
+      <div class="mb-1 text-xs">Get in on</div>
+      <div class="-mt-1 font-sans text-sm font-semibold">Google Play</div>
+    </div>
+  </a>
+</div>
+
+</div>
+</div>
+<hr class='my-6 border-neutral-800 sm:mx-auto lg:my-8'>
+</footer>
+</body>
+</html>
